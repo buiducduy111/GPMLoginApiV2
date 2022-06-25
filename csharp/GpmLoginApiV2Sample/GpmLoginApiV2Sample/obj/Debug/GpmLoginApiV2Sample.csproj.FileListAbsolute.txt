@@ -1,0 +1,12 @@
+D:\out_source\2021_projects\GPMLoginAPIv2\csharp\GpmLoginApiV2Sample\GpmLoginApiV2Sample\obj\Debug\GpmLoginApiV2Sample.csproj.AssemblyReference.cache
+D:\out_source\2021_projects\GPMLoginAPIv2\csharp\GpmLoginApiV2Sample\GpmLoginApiV2Sample\obj\Debug\GpmLoginApiV2Sample.csproj.SuggestedBindingRedirects.cache
+D:\out_source\2021_projects\GPMLoginAPIv2\csharp\GpmLoginApiV2Sample\GpmLoginApiV2Sample\obj\Debug\GpmLoginApiV2Sample.csproj.CoreCompileInputs.cache
+D:\out_source\2021_projects\GPMLoginAPIv2\csharp\GpmLoginApiV2Sample\GpmLoginApiV2Sample\bin\Debug\GpmLoginApiV2Sample.exe.config
+D:\out_source\2021_projects\GPMLoginAPIv2\csharp\GpmLoginApiV2Sample\GpmLoginApiV2Sample\bin\Debug\GpmLoginApiV2Sample.exe
+D:\out_source\2021_projects\GPMLoginAPIv2\csharp\GpmLoginApiV2Sample\GpmLoginApiV2Sample\bin\Debug\GpmLoginApiV2Sample.pdb
+D:\out_source\2021_projects\GPMLoginAPIv2\csharp\GpmLoginApiV2Sample\GpmLoginApiV2Sample\bin\Debug\WebDriver.dll
+D:\out_source\2021_projects\GPMLoginAPIv2\csharp\GpmLoginApiV2Sample\GpmLoginApiV2Sample\obj\Debug\GpmLoginApiV2Sample.csproj.CopyComplete
+D:\out_source\2021_projects\GPMLoginAPIv2\csharp\GpmLoginApiV2Sample\GpmLoginApiV2Sample\obj\Debug\GpmLoginApiV2Sample.exe
+D:\out_source\2021_projects\GPMLoginAPIv2\csharp\GpmLoginApiV2Sample\GpmLoginApiV2Sample\obj\Debug\GpmLoginApiV2Sample.pdb
+D:\out_source\2021_projects\GPMLoginAPIv2\csharp\GpmLoginApiV2Sample\GpmLoginApiV2Sample\bin\Debug\Newtonsoft.Json.dll
+D:\out_source\2021_projects\GPMLoginAPIv2\csharp\GpmLoginApiV2Sample\GpmLoginApiV2Sample\bin\Debug\Newtonsoft.Json.xml
