@@ -15,7 +15,7 @@ namespace GpmLoginApiV2Sample
     {
         static void Main(string[] args)
         {
-            GPMLoginAPI api = new GPMLoginAPI("http://127.0.0.1:50165");
+            GPMLoginAPI api = new GPMLoginAPI("http://127.0.0.1:49806");
 
             // Print list off profiles in GPMLogin -------------------------
             Console.ForegroundColor = ConsoleColor.Green;
