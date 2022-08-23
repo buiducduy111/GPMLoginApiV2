@@ -30,7 +30,7 @@ print(f"Created profile ID: {createdProfileId}")
 
 
 print('START PROFILE ------------------')
-startedResult = api.Start(createdProfileId)
+startedResult = api.Start(createdProfileId);#, addinationArgs='--proxy-server="1.2.3.4:55"')
 if(startedResult != None):
     status = bool(startedResult['status'])
     if(status):
